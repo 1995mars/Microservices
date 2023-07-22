@@ -58,5 +58,3 @@
 	</build>
 
 </project>
-
-mvn spring-boot:build-image

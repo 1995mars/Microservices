@@ -1,0 +1,6 @@
+global:
+  configMapName: eazybankprod-configmap
+  zipkinBaseURL: http://zipkin:9411/api/v2/spans
+  activeProfile: prod
+  configServerURL: configserver:http://configserver:8071/
+  eurekaServerURL: http://eurekaserver:8070/eureka/
